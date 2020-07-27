@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Top 5 Reasons to Study Data Science"
-date:       2020-07-27 20:40:02 +0000
+date:       2020-07-27 16:40:03 -0400
 permalink:  top_5_reasons_to_study_data_science
 ---
 
